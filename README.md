@@ -1,4 +1,4 @@
-<h1>Landing Page Músical</h1>
+<h1>Landing Page Musical</h1>
 <p>
 <img src="https://i.imgur.com/9AWVjn6.png">
 <a href="https://raphacalixto.github.io/M-sica-Landing-page/">Confira aqui!</a> 
